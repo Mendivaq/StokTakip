@@ -1,0 +1,6 @@
+C:\Users\ekkoe\Desktop\C# Projects\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\ekkoe\Desktop\C# Projects\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\ekkoe\Desktop\C# Projects\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\ekkoe\Desktop\C# Projects\StokTakip\obj\Debug\StokTakip.csprojAssemblyReference.cache
+C:\Users\ekkoe\Desktop\C# Projects\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\ekkoe\Desktop\C# Projects\StokTakip\obj\Debug\StokTakip.pdb
